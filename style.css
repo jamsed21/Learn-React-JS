@@ -1,0 +1,10 @@
+.con{
+    background-color: blue;
+    color: red;
+    text-align: center;
+    border: 1px solid red;
+    border-radius: 25%;
+    font-weight: bold;
+    font-size: 5rem;
+
+}
