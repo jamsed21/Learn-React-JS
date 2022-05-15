@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: rgb(196, 166, 166);
+    padding: 25px;
+    margin: 20px;
+    text-align: center;
+
+
+}
+
+button{
+    margin: 20px;
+    padding: 10px 30px;
+    font-size: 2rem;
+    color: white;
+    background-color: green;
+    box-shadow: 2px 2px rgb(41, 29, 29);
+    border-radius: 5rem;
+}
+h1{
+    color: white;
+    
+}
+
+.h1{
+    height: 50px;
+}
