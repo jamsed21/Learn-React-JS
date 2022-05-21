@@ -1,11 +1,13 @@
 import React from 'react'
-import Form from './Form/Form'
 
-export default function App() {
+import FAQS from './FAQS';
+
+const App = () => {
   return (
     <div>
-      <Form />
+      <FAQS />
     </div>
-    
   )
 }
+
+export default App;
