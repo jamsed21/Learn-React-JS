@@ -1,14 +1,12 @@
-import React from "react";
-import car1 from './compo/card1';
+import './App.css';
+import YoutubeChannel from './components/YoutubeChannel';
 
-
-
-function App(){
+function App() {
   return (
-    <div>
-      <card1 name = "card1" />
-    </div>
-  )
+   <div>
+     <YoutubeChannel />
+   </div>
+  );
 }
 
 export default App;
