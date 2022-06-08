@@ -1,12 +1,10 @@
-import './App.css';
-import YoutubeChannel from './components/YoutubeChannel';
+import React from 'react';
+import UseEffact from './UseEffact';
 
-function App() {
+const App = () => {
   return (
-   <div>
-     <YoutubeChannel />
-   </div>
-  );
+    <UseEffact />
+  )
 }
 
 export default App;
