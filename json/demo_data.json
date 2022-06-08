@@ -1,0 +1,49 @@
+{
+    "personal-data": [
+      {
+        "Name": "Jamsed Hossen",
+        "middleName": null,
+        "age": 24,
+        "cgpa": 3.21,
+        "isRegistrad": true,
+        "languages": [
+          "Bangla",
+          "English",
+          "Hindi"
+        ],
+        "friends": [
+          {
+            "Name": "Mobarak",
+            "Age": 28
+          },
+          {
+            "Name": "Nirob",
+            "Age": "29"
+          }
+        ]
+      },
+      {
+        "Name": "Fawzia Tamanna",
+        "middleName": null,
+        "age": 25,
+        "cgpa": 3.51,
+        "isRegistrad": true,
+        "languages": [
+          "Bangla",
+          "English",
+          "Hindi",
+          "spanish"
+        ],
+        "friends": [
+          {
+            "Name": "Samoiha",
+            "Age": 25
+          },
+          {
+            "Name": "prapti",
+            "Age": "24"
+          }
+        ]
+      }
+    ]
+  }
