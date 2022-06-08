@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.heading{
+    background-color: purple;
+    text-align: center;
+    padding: 10px;
+    color: aliceblue;
+
+}
+
+.card{
+   background-color: hsl(44, 98%, 49%);
+    box-shadow: 2px 4px 4px black;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    width: 390px;
+    display: inline-block;
+    cursor: pointer;
+
+}
+
+.heading1{
+
+    text-align: center;
+    padding-bottom: 5px;
+}
+.description{
+    text-align: center;
+    margin: 5px;
+}
+
+.cardYear{
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
