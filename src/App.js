@@ -1,9 +1,11 @@
 import React from 'react';
-import UseEffact from './UseEffact';
+import UserForm from './UserForm';
 
 const App = () => {
   return (
-    <UseEffact />
+    <div>
+      <UserForm />
+    </div>
   )
 }
 
